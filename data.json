@@ -1,12 +1,7 @@
 {
-  "discounts": {
-    "espresso": {
-      "name": "Espresso",
-      "percent": 10
-    }
-  },
+  "discounts": {},
   "banner": {
     "enabled": true,
-    "text": "🎉 İndirimde: Iced Latte %15 • Espresso %10"
+    "text": "🎉 Espresso bugün %10 indirimli!"
   }
 }
