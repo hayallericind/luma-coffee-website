@@ -8,5 +8,9 @@
       "name": "Espresso",
       "percent": 10
     }
+  },
+  "banner": {
+    "enabled": true,
+    "text": "🎉 İndirimde: Iced Latte %15 • Espresso %10"
   }
 }
