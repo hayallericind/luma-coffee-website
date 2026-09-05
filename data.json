@@ -1,7 +1,7 @@
 {
   "discounts": {},
   "banner": {
-    "enabled": true,
+    "enabled": false,
     "text": "🎉 Espresso bugün %10 indirimli!"
   }
 }
