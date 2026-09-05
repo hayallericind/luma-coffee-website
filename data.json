@@ -1,9 +1,5 @@
 {
   "discounts": {
-    "iced-latte": {
-      "name": "Iced Latte",
-      "percent": 15
-    },
     "espresso": {
       "name": "Espresso",
       "percent": 10
